@@ -6,6 +6,12 @@ signals (duplicates, out-of-policy amounts, odd tax rates), and suggests an
 expense category with an explainable model. The arithmetic and the fraud checks
 are deterministic and auditable; the AI only *suggests* the category.
 
+[![CI](https://img.shields.io/badge/CI-GitHub%20Actions-blue)](.github/workflows/ci.yml)
+[![Python](https://img.shields.io/badge/python-3.11%2B-blue)](pyproject.toml)
+[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+
+---
+
 ## Why it matters
 
 The expensive mistakes in accounts payable are not exotic: a total that does not
