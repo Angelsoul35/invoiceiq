@@ -51,9 +51,7 @@ def _assessment_dict(a: InvoiceAssessment) -> dict:
         "issues": [
             {"code": i.code, "severity": i.severity, "message": i.message} for i in a.issues
         ],
-        "flags": [
-            {"code": f.code, "severity": f.severity, "message": f.message} for f in a.flags
-        ],
+        "flags": [{"code": f.code, "severity": f.severity, "message": f.message} for f in a.flags],
         "category": a.category,
         "category_confidence": round(a.category_confidence, 4),
         "category_needs_review": a.category_needs_review,

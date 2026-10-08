@@ -27,8 +27,12 @@ def test_clean_invoice_has_no_errors():
 
 
 def test_line_amount_mismatch_is_error():
-    inv = Invoice(line_items=[LineItem("widget", 3, 1000, 9999)], subtotal_cents=9999,
-                  tax_cents=0, total_cents=9999)
+    inv = Invoice(
+        line_items=[LineItem("widget", 3, 1000, 9999)],
+        subtotal_cents=9999,
+        tax_cents=0,
+        total_cents=9999,
+    )
     assert "line_amount_mismatch" in _codes(validate_invoice(inv))
 
 

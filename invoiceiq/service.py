@@ -24,9 +24,7 @@ class InvoiceService:
 
     def assess(self, text: str, *, remember: bool = True) -> InvoiceAssessment:
         invoice = extract_invoice(text)
-        issues = validate_invoice(
-            invoice, tolerance_cents=self.settings.arithmetic_tolerance_cents
-        )
+        issues = validate_invoice(invoice, tolerance_cents=self.settings.arithmetic_tolerance_cents)
         flags = self.scanner.scan(invoice, remember=remember)
         suggestion = self.categorizer.suggest(invoice)
         return InvoiceAssessment(

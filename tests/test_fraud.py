@@ -36,13 +36,15 @@ def test_over_approval_limit():
 
 def test_unexpected_tax_rate():
     scanner = FraudScanner(expected_tax_rate=0.19, tax_rate_tolerance=0.03)
-    flags = scanner.scan(_inv(invoice_number="TAX", subtotal_cents=500_000, tax_cents=25_000,
-                              total_cents=525_000))
+    flags = scanner.scan(
+        _inv(invoice_number="TAX", subtotal_cents=500_000, tax_cents=25_000, total_cents=525_000)
+    )
     assert "unexpected_tax_rate" in _codes(flags)
 
 
 def test_normal_tax_rate_not_flagged():
     scanner = FraudScanner(expected_tax_rate=0.19, tax_rate_tolerance=0.03)
-    flags = scanner.scan(_inv(invoice_number="OK", subtotal_cents=100_000, tax_cents=19_000,
-                              total_cents=119_000))
+    flags = scanner.scan(
+        _inv(invoice_number="OK", subtotal_cents=100_000, tax_cents=19_000, total_cents=119_000)
+    )
     assert "unexpected_tax_rate" not in _codes(flags)
