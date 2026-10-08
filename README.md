@@ -151,4 +151,4 @@ and receipts, and training the categoriser on real labelled invoices.
 
 ## License
 
-MIT. See [LICENSE](LICENSE).
+[MIT](LICENSE) © Angelo David Padilla Romero
