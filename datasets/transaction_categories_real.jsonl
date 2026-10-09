@@ -1,0 +1,282 @@
+{"merchant": "Uber 072515 SFPOOL", "category": "Transportation"}
+{"merchant": "United Airlines", "category": "Transportation"}
+{"merchant": "INTRST PYMNT", "category": "Payments/Credits"}
+{"merchant": "SparkFun", "category": "Shopping"}
+{"merchant": "McDonald's", "category": "Dining Out"}
+{"merchant": "Starbucks", "category": "Dining Out"}
+{"merchant": "United Airlines", "category": "Transportation"}
+{"merchant": "Touchstone Climbing", "category": "Entertainment"}
+{"merchant": "CD DEPOSIT .INITIAL.", "category": "Payments/Credits"}
+{"merchant": "ACH Electronic CreditGUSTO PAY 123456", "category": "Payments/Credits"}
+{"merchant": "Uber 063015 SFPOOL", "category": "Transportation"}
+{"merchant": "CREDIT CARD 3333 PAYMENT", "category": "Payments/Credits"}
+{"merchant": "Tectra Inc", "category": "Shopping"}
+{"merchant": "Amazon.com", "category": "Shopping"}
+{"merchant": "Walmart.com", "category": "Shopping"}
+{"merchant": "Best Buy", "category": "Shopping"}
+{"merchant": "Target", "category": "Shopping"}
+{"merchant": "Macy's", "category": "Shopping"}
+{"merchant": "Uber 041521 NYC**POOL**", "category": "Transportation"}
+{"merchant": "Lyft 051322 LA**SHARE**", "category": "Transportation"}
+{"merchant": "Delta Air Lines", "category": "Transportation"}
+{"merchant": "American Airlines", "category": "Transportation"}
+{"merchant": "Spirit Airlines", "category": "Transportation"}
+{"merchant": "MORTGAGE PAYMENT", "category": "Housing"}
+{"merchant": "RENT PAYMENT", "category": "Housing"}
+{"merchant": "ELECTRICITY BILL", "category": "Utilities"}
+{"merchant": "GAS BILL", "category": "Utilities"}
+{"merchant": "CABLE TV", "category": "Utilities"}
+{"merchant": "WATER BILL", "category": "Utilities"}
+{"merchant": "Chipotle", "category": "Dining Out"}
+{"merchant": "Olive Garden", "category": "Dining Out"}
+{"merchant": "Outback Steakhouse", "category": "Dining Out"}
+{"merchant": "Panera Bread", "category": "Dining Out"}
+{"merchant": "PAYCHECK DEPOSIT", "category": "Payments/Credits"}
+{"merchant": "TAX REFUND", "category": "Payments/Credits"}
+{"merchant": "BONUS PAYMENT", "category": "Payments/Credits"}
+{"merchant": "INTEREST EARNED", "category": "Payments/Credits"}
+{"merchant": "AMC Theatres", "category": "Entertainment"}
+{"merchant": "Dave & Buster's", "category": "Entertainment"}
+{"merchant": "Top Golf", "category": "Entertainment"}
+{"merchant": "Escape Room Adventure", "category": "Entertainment"}
+{"merchant": "Netflix", "category": "Service Subscriptions"}
+{"merchant": "Hulu", "category": "Service Subscriptions"}
+{"merchant": "Spotify", "category": "Service Subscriptions"}
+{"merchant": "Adobe Creative Cloud", "category": "Service Subscriptions"}
+{"merchant": "Amazon.com", "category": "Shopping"}
+{"merchant": "Walmart.com", "category": "Shopping"}
+{"merchant": "Best Buy", "category": "Shopping"}
+{"merchant": "Target", "category": "Shopping"}
+{"merchant": "Macy's", "category": "Shopping"}
+{"merchant": "Uber 041521 NYC**POOL**", "category": "Transportation"}
+{"merchant": "Lyft 051322 LA**SHARE**", "category": "Transportation"}
+{"merchant": "Delta Air Lines", "category": "Transportation"}
+{"merchant": "American Airlines", "category": "Transportation"}
+{"merchant": "Spirit Airlines", "category": "Transportation"}
+{"merchant": "MORTGAGE PAYMENT", "category": "Housing"}
+{"merchant": "RENT PAYMENT", "category": "Housing"}
+{"merchant": "ELECTRICITY BILL", "category": "Utilities"}
+{"merchant": "GAS BILL", "category": "Utilities"}
+{"merchant": "CABLE TV", "category": "Utilities"}
+{"merchant": "WATER BILL", "category": "Utilities"}
+{"merchant": "Chipotle", "category": "Dining Out"}
+{"merchant": "Olive Garden", "category": "Dining Out"}
+{"merchant": "Outback Steakhouse", "category": "Dining Out"}
+{"merchant": "Panera Bread", "category": "Dining Out"}
+{"merchant": "PAYCHECK DEPOSIT", "category": "Payments/Credits"}
+{"merchant": "TAX REFUND", "category": "Payments/Credits"}
+{"merchant": "BONUS PAYMENT", "category": "Payments/Credits"}
+{"merchant": "INTEREST EARNED", "category": "Payments/Credits"}
+{"merchant": "AMC Theatres", "category": "Entertainment"}
+{"merchant": "Dave & Buster's", "category": "Entertainment"}
+{"merchant": "Top Golf", "category": "Entertainment"}
+{"merchant": "Escape Room Adventure", "category": "Entertainment"}
+{"merchant": "Netflix", "category": "Service Subscriptions"}
+{"merchant": "Hulu", "category": "Service Subscriptions"}
+{"merchant": "Spotify", "category": "Service Subscriptions"}
+{"merchant": "Adobe Creative Cloud", "category": "Service Subscriptions"}
+{"merchant": "Costco", "category": "Shopping"}
+{"merchant": "Ikea", "category": "Shopping"}
+{"merchant": "Home Depot", "category": "Shopping"}
+{"merchant": "Lowe's", "category": "Shopping"}
+{"merchant": "Uber 072615 SF**POOL**", "category": "Transportation"}
+{"merchant": "Lyft 081122 SEA**SHARE**", "category": "Transportation"}
+{"merchant": "Southwest Airlines", "category": "Transportation"}
+{"merchant": "JetBlue Airways", "category": "Transportation"}
+{"merchant": "United Airlines", "category": "Transportation"}
+{"merchant": "STUDENT LOAN PAYMENT", "category": "Payments/Credits"}
+{"merchant": "AUTO LOAN PAYMENT", "category": "Payments/Credits"}
+{"merchant": "CREDIT CARD PAYMENT", "category": "Payments/Credits"}
+{"merchant": "INSURANCE PAYMENT", "category": "Utilities"}
+{"merchant": "PHONE BILL", "category": "Utilities"}
+{"merchant": "McDonald's", "category": "Dining Out"}
+{"merchant": "Burger King", "category": "Dining Out"}
+{"merchant": "Wendy's", "category": "Dining Out"}
+{"merchant": "Taco Bell", "category": "Dining Out"}
+{"merchant": "SALARY DEPOSIT", "category": "Payments/Credits"}
+{"merchant": "INVESTMENT INCOME", "category": "Payments/Credits"}
+{"merchant": "DIVIDEND PAYMENT", "category": "Payments/Credits"}
+{"merchant": "CAPITAL GAINS", "category": "Payments/Credits"}
+{"merchant": "Movie Tavern", "category": "Entertainment"}
+{"merchant": "Bowling Alley", "category": "Entertainment"}
+{"merchant": "Laser Tag Arena", "category": "Entertainment"}
+{"merchant": "Mini Golf Course", "category": "Entertainment"}
+{"merchant": "Spotify Premium", "category": "Service Subscriptions"}
+{"merchant": "Amazon Prime", "category": "Service Subscriptions"}
+{"merchant": "Xbox Live Gold", "category": "Service Subscriptions"}
+{"merchant": "PlayStation Plus", "category": "Service Subscriptions"}
+{"merchant": "Nordstrom", "category": "Shopping"}
+{"merchant": "Sephora", "category": "Shopping"}
+{"merchant": "Ulta Beauty", "category": "Shopping"}
+{"merchant": "Lululemon Athletica", "category": "Shopping"}
+{"merchant": "Uber 102821 CHI**POOL**", "category": "Transportation"}
+{"merchant": "Lyft 112622 MIA**SHARE**", "category": "Transportation"}
+{"merchant": "Frontier Airlines", "category": "Transportation"}
+{"merchant": "Allegiant Air", "category": "Transportation"}
+{"merchant": "Hawaiian Airlines", "category": "Transportation"}
+{"merchant": "HOME REPAIR SERVICE", "category": "Housing"}
+{"merchant": "LAWN CARE SERVICE", "category": "Housing"}
+{"merchant": "PEST CONTROL SERVICE", "category": "Housing"}
+{"merchant": "APPLIANCE REPAIR", "category": "Housing"}
+{"merchant": "INTERNET SERVICE", "category": "Utilities"}
+{"merchant": "HEATING OIL DELIVERY", "category": "Utilities"}
+{"merchant": "Buffalo Wild Wings", "category": "Dining Out"}
+{"merchant": "Applebee's", "category": "Dining Out"}
+{"merchant": "Chili's", "category": "Dining Out"}
+{"merchant": "TFSA Contribution", "category": "Payments/Credits"}
+{"merchant": "RRSP Contribution", "category": "Payments/Credits"}
+{"merchant": "401K Contribution", "category": "Payments/Credits"}
+{"merchant": "Roth IRA Contribution", "category": "Payments/Credits"}
+{"merchant": "Movie Tickets", "category": "Entertainment"}
+{"merchant": "Concert Tickets", "category": "Entertainment"}
+{"merchant": "Sporting Event Tickets", "category": "Entertainment"}
+{"merchant": "Theatre Show Tickets", "category": "Entertainment"}
+{"merchant": "YouTube Premium", "category": "Service Subscriptions"}
+{"merchant": "Dropbox Plus", "category": "Service Subscriptions"}
+{"merchant": "Microsoft Office 365", "category": "Service Subscriptions"}
+{"merchant": "Grammarly Premium", "category": "Service Subscriptions"}
+{"merchant": "eBay", "category": "Shopping"}
+{"merchant": "Etsy", "category": "Shopping"}
+{"merchant": "Wayfair", "category": "Shopping"}
+{"merchant": "Overstock.com", "category": "Shopping"}
+{"merchant": "Uber 032123 DEN**POOL**", "category": "Transportation"}
+{"merchant": "Lyft 041824 ATL**SHARE**", "category": "Transportation"}
+{"merchant": "Frontier Airlines", "category": "Transportation"}
+{"merchant": "Spirit Airlines", "category": "Transportation"}
+{"merchant": "Sun Country Airlines", "category": "Transportation"}
+{"merchant": "CONDO FEES", "category": "Housing"}
+{"merchant": "HOA DUES", "category": "Housing"}
+{"merchant": "PROPERTY TAX", "category": "Housing"}
+{"merchant": "HOME INSURANCE", "category": "Utilities"}
+{"merchant": "CELL PHONE PLAN", "category": "Utilities"}
+{"merchant": "Starbucks", "category": "Dining Out"}
+{"merchant": "Dunkin' Donuts", "category": "Dining Out"}
+{"merchant": "Subway", "category": "Dining Out"}
+{"merchant": "Domino's Pizza", "category": "Dining Out"}
+{"merchant": "FREELANCE PAYMENT", "category": "Payments/Credits"}
+{"merchant": "INVESTMENT WITHDRAWAL", "category": "Payments/Credits"}
+{"merchant": "INHERITANCE PAYOUT", "category": "Payments/Credits"}
+{"merchant": "LEGAL SETTLEMENT", "category": "Payments/Credits"}
+{"merchant": "Bowling Party", "category": "Entertainment"}
+{"merchant": "Karaoke Night", "category": "Entertainment"}
+{"merchant": "Comedy Club", "category": "Entertainment"}
+{"merchant": "Museum Admission", "category": "Entertainment"}
+{"merchant": "Amazon Music Unlimited", "category": "Service Subscriptions"}
+{"merchant": "iCloud Storage", "category": "Service Subscriptions"}
+{"merchant": "Adobe Acrobat Pro DC", "category": "Service Subscriptions"}
+{"merchant": "Calm Premium", "category": "Service Subscriptions"}
+{"merchant": "REI", "category": "Shopping"}
+{"merchant": "Dick's Sporting Goods", "category": "Shopping"}
+{"merchant": "Cabela's", "category": "Shopping"}
+{"merchant": "Bass Pro Shops", "category": "Shopping"}
+{"merchant": "Uber 061524 BOS**POOL**", "category": "Transportation"}
+{"merchant": "Lyft 072325 PHI**SHARE**", "category": "Transportation"}
+{"merchant": "JetBlue Airways", "category": "Transportation"}
+{"merchant": "Spirit Airlines", "category": "Transportation"}
+{"merchant": "Frontier Airlines", "category": "Transportation"}
+{"merchant": "HOUSE CLEANING SERVICE", "category": "Housing"}
+{"merchant": "POOL MAINTENANCE", "category": "Housing"}
+{"merchant": "CARPET CLEANING", "category": "Housing"}
+{"merchant": "PAINTING SERVICE", "category": "Housing"}
+{"merchant": "TRASH REMOVAL SERVICE", "category": "Utilities"}
+{"merchant": "SECURITY SYSTEM", "category": "Utilities"}
+{"merchant": "Cheesecake Factory", "category": "Dining Out"}
+{"merchant": "P.F. Chang's", "category": "Dining Out"}
+{"merchant": "Red Lobster", "category": "Dining Out"}
+{"merchant": "STOCK TRADE", "category": "Payments/Credits"}
+{"merchant": "CRYPTO PURCHASE", "category": "Payments/Credits"}
+{"merchant": "ONLINE GAMBLING WINNINGS", "category": "Payments/Credits"}
+{"merchant": "LOTTERY WINNINGS", "category": "Payments/Credits"}
+{"merchant": "Go-Kart Racing", "category": "Entertainment"}
+{"merchant": "Axe Throwing", "category": "Entertainment"}
+{"merchant": "Indoor Skydiving", "category": "Entertainment"}
+{"merchant": "Zipline Adventure", "category": "Entertainment"}
+{"merchant": "Disney Plus", "category": "Service Subscriptions"}
+{"merchant": "Apple TV Plus", "category": "Service Subscriptions"}
+{"merchant": "Audible Premium Plus", "category": "Service Subscriptions"}
+{"merchant": "MasterClass", "category": "Service Subscriptions"}
+{"merchant": "Nike", "category": "Shopping"}
+{"merchant": "Adidas", "category": "Shopping"}
+{"merchant": "Under Armour", "category": "Shopping"}
+{"merchant": "Levi's", "category": "Shopping"}
+{"merchant": "Uber 091026 MIA**POOL**", "category": "Transportation"}
+{"merchant": "Lyft 102927 LAS**SHARE**", "category": "Transportation"}
+{"merchant": "Southwest Airlines", "category": "Transportation"}
+{"merchant": "Alaska Airlines", "category": "Transportation"}
+{"merchant": "Hawaiian Airlines", "category": "Transportation"}
+{"merchant": "MORTGAGE REFINANCE COSTS", "category": "Housing"}
+{"merchant": "MOVING EXPENSES", "category": "Housing"}
+{"merchant": "HOME REPAIRS", "category": "Housing"}
+{"merchant": "FURNITURE ASSEMBLY", "category": "Housing"}
+{"merchant": "TRASH SERVICE", "category": "Utilities"}
+{"merchant": "PEST CONTROL SERVICE", "category": "Utilities"}
+{"merchant": "TGI Fridays", "category": "Dining Out"}
+{"merchant": "Ruby Tuesday", "category": "Dining Out"}
+{"merchant": "Cracker Barrel", "category": "Dining Out"}
+{"merchant": "BONUS PAYMENT", "category": "Payments/Credits"}
+{"merchant": "SEVERANCE PAYMENT", "category": "Payments/Credits"}
+{"merchant": "ROYALTY PAYMENT", "category": "Payments/Credits"}
+{"merchant": "INSURANCE CLAIM PAYOUT", "category": "Payments/Credits"}
+{"merchant": "Escape Room", "category": "Entertainment"}
+{"merchant": "Virtual Reality Experience", "category": "Entertainment"}
+{"merchant": "Trampoline Park", "category": "Entertainment"}
+{"merchant": "Rock Climbing Gym", "category": "Entertainment"}
+{"merchant": "YouTube TV", "category": "Service Subscriptions"}
+{"merchant": "DirecTV Stream", "category": "Service Subscriptions"}
+{"merchant": "Sling TV", "category": "Service Subscriptions"}
+{"merchant": "fuboTV", "category": "Service Subscriptions"}
+{"merchant": "Gap", "category": "Shopping"}
+{"merchant": "Old Navy", "category": "Shopping"}
+{"merchant": "Banana Republic", "category": "Shopping"}
+{"merchant": "Athleta", "category": "Shopping"}
+{"merchant": "Uber 112228 NYC**POOL**", "category": "Transportation"}
+{"merchant": "Lyft 010129 LAX**SHARE**", "category": "Transportation"}
+{"merchant": "Delta Air Lines", "category": "Transportation"}
+{"merchant": "United Airlines", "category": "Transportation"}
+{"merchant": "American Airlines", "category": "Transportation"}
+{"merchant": "HOME RENOVATION PROJECT", "category": "Housing"}
+{"merchant": "LANDSCAPING SERVICE", "category": "Housing"}
+{"merchant": "HOME WARRANTY", "category": "Housing"}
+{"merchant": "LOCKSMITH SERVICE", "category": "Housing"}
+{"merchant": "DIGITAL SUBSCRIPTIONS", "category": "Utilities"}
+{"merchant": "ALARM SYSTEM MONITORING", "category": "Utilities"}
+{"merchant": "The Cheesecake Factory", "category": "Dining Out"}
+{"merchant": "Texas Roadhouse", "category": "Dining Out"}
+{"merchant": "LongHorn Steakhouse", "category": "Dining Out"}
+{"merchant": "STOCK DIVIDEND", "category": "Payments/Credits"}
+{"merchant": "MUTUAL FUND DISTRIBUTION", "category": "Payments/Credits"}
+{"merchant": "ANNUITY PAYMENT", "category": "Payments/Credits"}
+{"merchant": "SCHOLARSHIP FUNDS", "category": "Payments/Credits"}
+{"merchant": "Live Comedy Show", "category": "Entertainment"}
+{"merchant": "Live Music Concert", "category": "Entertainment"}
+{"merchant": "Sporting Event", "category": "Entertainment"}
+{"merchant": "Broadway Show", "category": "Entertainment"}
+{"merchant": "Amazon Kindle Unlimited", "category": "Service Subscriptions"}
+{"merchant": "Scribd", "category": "Service Subscriptions"}
+{"merchant": "Masterclass", "category": "Service Subscriptions"}
+{"merchant": "Skillshare", "category": "Service Subscriptions"}
+{"merchant": "Neiman Marcus", "category": "Shopping"}
+{"merchant": "Saks Fifth Avenue", "category": "Shopping"}
+{"merchant": "Bloomingdale's", "category": "Shopping"}
+{"merchant": "Bergdorf Goodman", "category": "Shopping"}
+{"merchant": "Uber 021530 LAS**POOL**", "category": "Transportation"}
+{"merchant": "Lyft 032331 MIA**SHARE**", "category": "Transportation"}
+{"merchant": "Alaska Airlines", "category": "Transportation"}
+{"merchant": "Hawaiian Airlines", "category": "Transportation"}
+{"merchant": "Sun Country Airlines", "category": "Transportation"}
+{"merchant": "BASEMENT REMODEL", "category": "Housing"}
+{"merchant": "DECK CONSTRUCTION", "category": "Housing"}
+{"merchant": "GARAGE DOOR REPAIR", "category": "Housing"}
+{"merchant": "GUTTER CLEANING SERVICE", "category": "Housing"}
+{"merchant": "INTERNET SERVICE PROVIDER", "category": "Utilities"}
+{"merchant": "SATELLITE TV SERVICE", "category": "Utilities"}
+{"merchant": "Bahama Breeze", "category": "Dining Out"}
+{"merchant": "Bonefish Grill", "category": "Dining Out"}
+{"merchant": "Carrabba's Italian Grill", "category": "Dining Out"}
+{"merchant": "BANK ACCOUNT INTEREST", "category": "Payments/Credits"}
+{"merchant": "RENTAL INCOME", "category": "Payments/Credits"}
+{"merchant": "LEGAL SETTLEMENT", "category": "Payments/Credits"}
+{"merchant": "GAMBLING WINNINGS", "category": "Payments/Credits"}
+{"merchant": "Miniature Golf", "category": "Entertainment"}
+{"merchant": "Paint and Sip", "category": "Entertainment"}
+{"merchant": "Arcade", "category": "Entertainment"}

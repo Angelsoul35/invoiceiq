@@ -31,8 +31,8 @@ def test_suggests_sensible_categories(categorizer: ExpenseCategorizer):
 
 
 def test_anchor_disjoint_generalises_without_overfitting():
-    # Honest: whole anchor keywords held out of training, so the test vocabulary
-    # is unseen and a near-1.0 within-distribution score cannot hide memorisation.
+    # Whole anchor keywords are held out of training, so the test vocabulary is
+    # unseen and a near-1.0 within-distribution score cannot hide memorisation.
     report = anchor_disjoint_eval()
     assert report.accuracy >= 0.70  # eight categories; chance ~0.125
     assert report.train_accuracy >= 0.95

@@ -9,7 +9,7 @@ profesional); esta guía explica el *porqué*.
 1. [01 — Extracción de datos](01-extraccion.md) — del texto a números exactos.
 2. [02 — Validación aritmética](02-validacion-aritmetica.md) — por qué cuadra o no.
 3. [03 — Detección de fraude](03-deteccion-fraude.md) — facturas duplicadas y señales.
-4. [04 — El categorizador de IA](04-categorizador-ia.md) — y su evaluación honesta.
+4. [04 — El categorizador de IA](04-categorizador-ia.md) — y su evaluación por anclas disjuntas y en dato real.
 5. [05 — Preguntas de entrevista](05-preguntas-de-entrevista.md)
 
 ## La idea en una frase

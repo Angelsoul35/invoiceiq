@@ -23,9 +23,10 @@ Así se cogen tanto el duplicado evidente como el disfrazado.
 - `unexpected_tax_rate`: la tasa de impuesto implícita (`impuesto / subtotal`) se
   aleja de la esperada más que la tolerancia.
 
-## Límites honestos
+## Alcance y extensiones
 
-El historial está en memoria y por proceso; en producción iría en un almacén
-compartido para detectar duplicados entre trabajadores y a lo largo del tiempo. La
-normalización del proveedor es simple (minúsculas, sin espacios); un sistema real
-añadiría coincidencia difusa ("Acme Ltd" vs "ACME Limited").
+El historial está en memoria y por proceso; una extensión natural lo lleva a un
+almacén compartido para detectar duplicados entre trabajadores y a lo largo del
+tiempo. La normalización del proveedor es directa (minúsculas, sin espacios) y se
+amplía con coincidencia difusa ("Acme Ltd" vs "ACME Limited") cuando el catálogo
+de proveedores lo pide.

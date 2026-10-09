@@ -4,9 +4,9 @@
 Accepted.
 
 ## Context
-The single most common accounts-payable fraud (and honest error) is paying the
-same invoice twice: a vendor resubmits the same number, or resubmits the same
-bill under a new number.
+The single most common accounts-payable fraud (and the most common accidental
+double payment) is paying the same invoice twice: a vendor resubmits the same
+number, or resubmits the same bill under a new number.
 
 ## Decision
 The `FraudScanner` keeps a short history and checks two keys:

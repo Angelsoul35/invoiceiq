@@ -14,7 +14,7 @@ expense category is a model's suggestion.
 | Fraud        | `invoiceiq/fraud.py`      | Duplicate detection + policy heuristics            |
 | Categoriser  | `invoiceiq/categorizer.py`| Line items → expense category, explained           |
 | Generator    | `invoiceiq/generate.py`   | Synthetic line items + anchor-disjoint split       |
-| Evaluation   | `invoiceiq/evaluation.py` | Honest generalisation measurement                  |
+| Evaluation   | `invoiceiq/evaluation.py` | Anchor-disjoint generalisation measurement         |
 | Service      | `invoiceiq/service.py`    | Orchestration                                      |
 | HTTP API     | `invoiceiq/main.py`       | REST surface                                       |
 | CLI          | `invoiceiq/cli.py`        | End-to-end demo                                    |
@@ -48,7 +48,7 @@ confident suggestion saves time and a wrong one is cheaply corrected, so it is t
 one place a model is used — and even there, low confidence defers to a human and
 the category never affects `is_valid` or the fraud flags.
 
-## Extraction is the honest boundary
+## Extraction owns the exact text-to-numbers step
 
 Real invoices are PDFs and scans; turning those into text is an OCR / layout
 problem that a production system solves upstream. This module deliberately owns

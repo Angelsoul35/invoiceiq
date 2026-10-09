@@ -1,10 +1,11 @@
 """Synthetic, labelled invoice line-item descriptions for the categoriser.
 
-Same honesty discipline as the rest of the portfolio: each expense category has
-recurring **anchor keywords** (which share partial stems, the way real line items
-do) plus generic **context** filler. The evaluation holds out whole anchor
-keywords, so the test vocabulary is unseen and the reported accuracy reflects real
-generalisation, not template memorisation. Everything is synthetic.
+Each expense category has recurring **anchor keywords** (which share partial stems,
+the way real line items do) plus generic **context** filler. The evaluation holds
+out whole anchor keywords, so the test vocabulary is unseen and the reported
+accuracy reflects generalisation to new wording, not template memorisation.
+Everything here is synthetic; the real-data benchmark (:mod:`invoiceiq.real_benchmark`)
+runs the same categoriser on real labelled transactions.
 """
 
 from __future__ import annotations

@@ -1,4 +1,9 @@
-"""Honest, anchor-disjoint evaluation of the expense categoriser."""
+"""Anchor-disjoint evaluation of the expense categoriser.
+
+It holds whole anchor keywords out of training, so the reported accuracy measures
+generalisation to line-item vocabulary never seen in training, not recall of the
+training templates.
+"""
 
 from __future__ import annotations
 

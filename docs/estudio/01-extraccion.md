@@ -6,14 +6,14 @@
 estructurado: proveedor, número, fechas, líneas de detalle y totales. Todos los
 importes se guardan en **céntimos** (enteros), nunca en coma flotante.
 
-## La frontera honesta
+## El límite exacto del módulo
 
 Las facturas reales son PDF o imágenes escaneadas. Convertir eso en texto es un
 problema de **OCR / modelo de maquetación** que un sistema de producción resuelve
-*antes* de este módulo. Este proyecto es honesto sobre ese límite: solo se encarga
-del paso exacto de *texto* a *números*, para que cada cifra sea trazable a un
-fragmento del texto de origen y no "alucinada". El parser apunta a un formato de
-texto etiquetado habitual (ver `docs/architecture.md`).
+*antes* de este módulo. Este módulo se encarga a propósito solo del paso exacto de
+*texto* a *números*, para que cada cifra sea trazable a un fragmento del texto de
+origen y no "alucinada". El parser apunta a un formato de texto etiquetado habitual
+(ver `docs/architecture.md`).
 
 ## Un detalle que importa: los límites de palabra
 
